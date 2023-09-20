@@ -1,0 +1,6 @@
+*.txt
+.idea/*
+api_key
+chromedriver.exe
+geckodriver.exe
+*.log
